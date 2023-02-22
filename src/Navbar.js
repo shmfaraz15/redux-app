@@ -21,7 +21,7 @@ export default function Navbar() {
                         </ul>
 
                     </div>
-                    <button className="btn btn-primary" disabled="true">Your Balance:1000</button>
+                    <button className="btn btn-primary" disabled={true}>Your Balance:1000</button>
                 </div>
             </nav>
         </div>
